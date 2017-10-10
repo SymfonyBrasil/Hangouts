@@ -3,7 +3,7 @@
 # Hangouts
 Grade de hangouts para disseminação de conhecimento sobre Symfony.
 
-## Basico
+## Básico
 
 * Hangout #001: Introdução ao Symfony e a construção de um mini projeto.
 	* Artquitetura
