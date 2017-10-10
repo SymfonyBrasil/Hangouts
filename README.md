@@ -17,4 +17,5 @@ Grade de hangouts para disseminação de conhecimento sobre Symfony.
 * Commands
 * Top Components
 * Showcases
-* Mão na massa: Como criar Bundles, Controllers, Entities, Forms depois faremos um crud e iremos habilitar a autenticação http.
+
+**Mão na massa**: Como criar Bundles, Controllers, Entities, Forms depois faremos um crud e iremos habilitar a autenticação http.
